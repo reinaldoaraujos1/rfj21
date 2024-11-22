@@ -4,6 +4,8 @@ package br.com.caelum.jbdc.modelo;
 import java.sql.Connection;
 import java.sql.SQLException;
 
+import br.com.caelum.jbdc.ConnectionFactory;
+
 
 public class JDBCInsere {
 

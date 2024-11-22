@@ -1,4 +1,4 @@
-package br.com.caelum.jbdc.modelo;
+package br.com.caelum.jbdc;
 
 import java.sql.Connection;
 import java.sql.SQLException;
